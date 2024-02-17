@@ -1,0 +1,26 @@
+{
+  "name": "tiptap-extension-bullet-list",
+  "version": "1.0.0",
+  "description": "Tiptap bullet list extension with custom list-style-type support.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "ol",
+    "bullet list"
+  ],
+  "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-bullet-list",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-bullet-list.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/core": "^2.2.2",
+    "@tiptap/extension-bullet-list": "^2.2.2"
+  }
+}
